@@ -1,0 +1,1 @@
+phantomjs.exe screenshot.js https://localhost:7176/Try output.png
